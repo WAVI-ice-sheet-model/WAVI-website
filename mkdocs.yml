@@ -71,24 +71,12 @@ home_gradient_hsla: hsla(0deg,47%,55%,1) # Default Green: hsla(160deg,47%,55%,1)
 home_button1_name: Get Started                  
 home_button1_url: getting_started/
 home_button1_theme: md-button md-button--primary 
-home_button1_icon: gear                        
-home_button1_blurb: |                            
-  Learn how to use WAVI for your ice sheet modelling needs, from installation to advanced features.
 
 home_button2_name: Blog  
 home_button2_url: blog/
 home_button2_theme: md-button
-home_button2_icon: image
-home_button2_blurb: |
-  Read about the latest developments and updates in the WAVI project.
 
 home_button3_name: Community
 home_button3_url: Folder3/
 home_button3_theme: md-button
-home_button3_icon: people
-home_button3_blurb: |
-  Join the WAVI community to discuss, contribute, and collaborate on ice sheet modelling.
 
-# Homepage Code Execution
-home_execute_js: | # Javascript to execute when accessing the homepage
-  console.log("This is an example!");
