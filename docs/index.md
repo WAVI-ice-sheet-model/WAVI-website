@@ -3,8 +3,13 @@ template: home.html
 title: WAVI
 ---
 
-# About WAVI
+# About WAVI 
 
+WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/). WAVI.jl is designed to make ice sheet modelling more accessible to beginners and low-level users, whilst including sufficient detail to be used for addressing cutting-edge research questions.
+
+![](https://raw.githubusercontent.com/RJArthern/WAVI.jl/refs/tags/v0.0.2/schematic_lores.png)
+
+[:octicons-arrow-right-24: Read more about WAVI.jl](https://joss.theoj.org/papers/10.21105/joss.05584)
 
 
 # Repositories
@@ -34,7 +39,7 @@ title: WAVI
 
     Explore community examples.
 
-    [:octicons-arrow-right-24: Ice ice](#)
+    [:octicons-arrow-right-24: Ice ice baby](#)
 
 -   :fontawesome-solid-car-side:{ .lg .middle } __TBD Driver__
 

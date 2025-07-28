@@ -11,6 +11,8 @@ nav:
     - blog/index.md
   - Community:
     - community.md
+  - Publications:
+    - publications.md
 
 theme:
   name: material
