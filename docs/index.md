@@ -29,7 +29,7 @@ WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/). WAVI.j
 
     ---
 
-    Run an ensemble of models on your high-performance computing cluster.
+    Run an ensemble of WAVI models on your high-performance computing cluster.
 
     [:octicons-arrow-right-24: Brrr](https://github.com/alextbradley/WAVIhpc)
 
@@ -37,7 +37,7 @@ WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/). WAVI.j
 
     ---
 
-    Explore community examples.
+    Explore community examples of using WAVIhpc to simulate real-world scenarios. 
 
     [:octicons-arrow-right-24: Ice ice baby](#)
 
