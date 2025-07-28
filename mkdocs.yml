@@ -1,16 +1,20 @@
 site_name: wavi-web
+
+repo_url: https://github.com/thozwa/wavi-web
+repo_name: wavi-web
+edit_uri: edit/main/docs/
+
 nav:
   - Home: index.md
-  - Getting Started: getting_started.md
+  - Get Started: get_started.md
   - Blog:
     - blog/index.md
   - Community:
     - community.md
-repo_url: https://github.com/thozwa/wavi-web
-repo_name: wavi-web
-edit_uri: edit/main/docs/
+
 theme:
   name: material
+  custom_dir: docs/assets
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -53,3 +57,38 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 copyright: Copyright &copy; 2025 British Antarctic Survey
+
+# Custom Homepage Elements
+home_cover_image: https://raw.githubusercontent.com/RJArthern/WAVI.jl/build-docs/docs/src/assets/logo.png
+home_tagline: WAVI
+home_description: |
+  WAVI (Wavelet-based Adaptive-grid Vertically-integrated Ice-model) is a fast and friendly ice sheet model, written in Julia.
+
+# Gradient Color
+home_gradient_hsla: hsla(0deg,47%,55%,1) # Default Green: hsla(160deg,47%,55%,1)
+
+# Custom Homepage Button(s)
+home_button1_name: Get Started                  
+home_button1_url: getting_started/
+home_button1_theme: md-button md-button--primary 
+home_button1_icon: gear                        
+home_button1_blurb: |                            
+  Learn how to use WAVI for your ice sheet modelling needs, from installation to advanced features.
+
+home_button2_name: Blog  
+home_button2_url: blog/
+home_button2_theme: md-button
+home_button2_icon: image
+home_button2_blurb: |
+  Read about the latest developments and updates in the WAVI project.
+
+home_button3_name: Community
+home_button3_url: Folder3/
+home_button3_theme: md-button
+home_button3_icon: people
+home_button3_blurb: |
+  Join the WAVI community to discuss, contribute, and collaborate on ice sheet modelling.
+
+# Homepage Code Execution
+home_execute_js: | # Javascript to execute when accessing the homepage
+  console.log("This is an example!");
