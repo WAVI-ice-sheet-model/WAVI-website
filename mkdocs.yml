@@ -1,16 +1,20 @@
-site_name: wavi-web
+site_name: WAVI
+
+repo_url: https://github.com/thozwa/wavi-web
+repo_name: wavi-web
+edit_uri: edit/main/docs/
+
 nav:
   - Home: index.md
-  - Getting Started: getting_started.md
+  - Get Started: get_started.md
   - Blog:
     - blog/index.md
   - Community:
     - community.md
-repo_url: https://github.com/thozwa/wavi-web
-repo_name: wavi-web
-edit_uri: edit/main/docs/
+
 theme:
   name: material
+  custom_dir: docs/assets
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -41,15 +45,35 @@ plugins:
   # Enables automatically generating authors from git repo, see acknowledgements.md
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   # Enables code block highlighting
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - pymdownx.blocks.caption
-  - pymdownx.tabbed:
-      alternate_style: true
-copyright: Copyright &copy; 2025 British Antarctic Survey
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: |
+  Thanks to Bryony Freer, who designed the WAVI.jl logo.
+  Copyright &copy; 2025 British Antarctic Survey
+
+# Custom Homepage Elements
+home_cover_image: https://raw.githubusercontent.com/RJArthern/WAVI.jl/build-docs/docs/src/assets/logo.png
+home_tagline: WAVI
+home_description: |
+  WAVI (Wavelet-based Adaptive-grid Vertically-integrated Ice-model) is a fast and friendly ice sheet model, written in Julia.
+
+# Gradient Color
+home_gradient_hsla: hsla(200deg, 50%, 75%, 1) # darker hsla(240deg, 90%, 10%, 1)
+
+# Custom Homepage Button(s)
+home_button1_name: Get Started                  
+home_button1_url: get_started/
+home_button1_theme: md-button md-button--primary 
+
+home_button2_name: Blog  
+home_button2_url: blog/
+home_button2_theme: md-button
+
+home_button3_name: Community
+home_button3_url: community/
+home_button3_theme: md-button
+
