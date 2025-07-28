@@ -1,6 +1,11 @@
 site_name: wavi-web
 nav:
-  - Overview: index.md
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Blog:
+    - blog/index.md
+  - Community:
+    - community.md
 repo_url: https://github.com/thozwa/wavi-web
 repo_name: wavi-web
 edit_uri: edit/main/docs/
@@ -28,7 +33,10 @@ theme:
     - content.code.copy
     # Enables "edit this page" to contribute to docs
     - content.action.edit
+    - navigation.indexes
+    - navigation.tabs
 plugins:
+  - blog
   - search
   # Enables automatically generating authors from git repo, see acknowledgements.md
 markdown_extensions:
