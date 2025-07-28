@@ -1,4 +1,6 @@
 # wavi-web
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 Main WAVI website for the whole WAVI ecosystem. The website is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 # Making Changes
