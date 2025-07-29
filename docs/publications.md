@@ -1,3 +1,7 @@
+Below are papers and data in the WAVI ecosystem.
+
+Feel free to add your own with a Pull Request! **Edit this page link once hosted**
+
 ## Papers
 
 Williams, C. Rosie , Thodoroff, Pierre, Arthern, Robert J. , Byrne, James , Hosking, J. Scott , Kaiser, Markus, Lawrence, Neil D., Kazlauskaite, Ieva. (2025) [Calculations of extreme sea level rise scenarios are strongly dependent on ice sheet model resolution.](https://doi.org/10.1038/s43247-025-02010-z) Communications Earth & Environment, 6 (). 14 pp. 10.1038/s43247-025-02010-z
@@ -10,7 +14,7 @@ Bradley, Alexander T. , Bett, David T. , Holland, Paul R. , Williams, C. Rosie ,
 
 ## Data
 
-Bett, D.T., Bradley, A.T., Williams, R., Holland, P.R., Arthern, R.J., & Goldberg, D.N. (2024). Amundsen Sea sector MITgcm/WAVI coupled model output forced with idealised ocean boundary conditions over 180 years (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. [https://doi.org/10.5285/baa5097e-5139-4d8b-8986-3cc84c3319b7](https://doi.org/10.5285/baa5097e-5139-4d8b-8986-3cc84c3319b7])
+Bett, D.T., Bradley, A.T., Williams, R., Holland, P.R., Arthern, R.J., & Goldberg, D.N. (2024). [Amundsen Sea sector MITgcm/WAVI coupled model output forced with idealised ocean boundary conditions over 180 years](https://doi.org/10.5285/baa5097e-5139-4d8b-8986-3cc84c3319b7) (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. 10.5285/baa5097e-5139-4d8b-8986-3cc84c3319b7
 
-Williams, C. R., Arthern, R., & Byrne, J. (2024). Forward simulations of the Amundsen Sea Sector of West Antarctica at different resolutions produced from the ice sheet model WAVI (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. [https://doi.org/10.5285/4de39bc0-fc2b-4232-ac39-3cc1fd723f64](https://doi.org/10.5285/4de39bc0-fc2b-4232-ac39-3cc1fd723f64)
+Williams, C. R., Arthern, R., & Byrne, J. (2024). [Forward simulations of the Amundsen Sea Sector of West Antarctica at different resolutions produced from the ice sheet model WAVI](https://doi.org/10.5285/4de39bc0-fc2b-4232-ac39-3cc1fd723f64) (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. 10.5285/4de39bc0-fc2b-4232-ac39-3cc1fd723f64
 

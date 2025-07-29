@@ -3,13 +3,23 @@ template: home.html
 title: WAVI
 ---
 
-# About WAVI 
+# About WAVI.jl
 
-WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/). WAVI.jl is designed to make ice sheet modelling more accessible to beginners and low-level users, whilst including sufficient detail to be used for addressing cutting-edge research questions.
+WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/), initially developed at
+the [British Antarctic Survey](https://www.bas.ac.uk/). WAVI.jl is designed to make ice sheet
+modelling more accessible to beginners and low-level users, whilst including sufficient detail to
+be used for addressing cutting-edge research questions. To facilitate accessibility, WAVI.jl
+includes a simple, user friendly API.
 
 ![](https://raw.githubusercontent.com/RJArthern/WAVI.jl/refs/tags/v0.0.2/schematic_lores.png)
 
 [:octicons-arrow-right-24: Read more about WAVI.jl](https://joss.theoj.org/papers/10.21105/joss.05584)
+
+How WAVI.jl supports science
+
+[:octicons-arrow-right-24: Find out how WAVI.jl supports science](publications.md)
+
+WAVI.jl is supported by a growing number of tools
 
 
 # Repositories
@@ -61,3 +71,8 @@ WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/). WAVI.j
 
 # The Team
 
+## WAVI.jl
+<a href="https://github.com/RJArthern/WAVI.jl/graphs/contributors"><img src="https://contrib.rocks/image?repo=RJArthern/WAVI.jl" /></a>
+
+## WAVIhpc
+<a href="https://github.com/alextbradley/WAVIhpc/graphs/contributors"><img src="https://contrib.rocks/image?repo=alextbradley/WAVIhpc" /></a>

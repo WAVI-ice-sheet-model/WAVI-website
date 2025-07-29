@@ -5,7 +5,7 @@ repo_name: wavi-web
 edit_uri: edit/main/docs/
 
 nav:
-  - Home: index.md
+  - index.md
   - Get Started: get_started.md
   - Blog:
     - blog/index.md
