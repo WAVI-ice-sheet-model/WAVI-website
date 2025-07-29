@@ -5,6 +5,8 @@ title: WAVI
 
 # About WAVI.jl
 
+**WAVI.jl is an ice sheet model for everyone.**
+
 WAVI.jl is an ice sheet model written in [Julia](https://julialang.org/), initially developed at
 the [British Antarctic Survey](https://www.bas.ac.uk/). WAVI.jl is designed to make ice sheet
 modelling more accessible to beginners and low-level users, whilst including sufficient detail to
@@ -66,6 +68,15 @@ WAVI.jl is supported by a growing number of tools
     Get your input data into shape for use with WAVI.
 
     [:octicons-arrow-right-24: Yes please](#)
+
+-   :fontawesome-solid-bars-progress:{ .lg .middle } __model-ensembler__
+
+    ---
+
+    `model-ensembler` is a general purpose Python package that supports running ensembles. It is the
+    backbone of `WAVIhpc`, but can be used for other models. 
+
+    [:octicons-arrow-right-24: Ensembles assemble](https://github.com/environmental-forecasting/model-ensembler)
 
 </div>
 
