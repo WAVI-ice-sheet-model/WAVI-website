@@ -68,9 +68,9 @@ copyright: |
 # Additional configuration for the homepage
 # Custom Homepage Elements
 home_cover_image: https://raw.githubusercontent.com/RJArthern/WAVI.jl/build-docs/docs/src/assets/logo.png
-home_tagline: WAVI
+home_tagline: WAVI.jl
 home_description: |
-  WAVI (Wavelet-based Adaptive-grid Vertically-integrated Ice-model) is a fast and friendly ice sheet model, written in Julia.
+  A fast and friendly ice sheet model for everyone.
 
 # Gradient Color
 home_gradient_hsla: hsla(200deg, 50%, 75%, 1)
