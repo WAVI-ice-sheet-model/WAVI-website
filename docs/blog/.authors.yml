@@ -1,3 +1,10 @@
+page_params:
+  title: The Team
+  description: "Meet the team behind WAVI."
+  avatar_shape: circle
+  avatar_size: 150
+  avatar_align: left
+
 authors:
   alextbradley:
     name: Alex Bradley
@@ -5,7 +12,7 @@ authors:
     avatar: https://avatars.githubusercontent.com/u/36222451?v=4
     affiliation: King's College London
   rjarthern:
-    name: Rob Arthern
+    name: Robert Arthern
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/1026460?v=4
     affiliation: British Antarctic Survey

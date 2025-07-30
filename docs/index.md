@@ -34,7 +34,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     ---
 
-    The main WAVI ice sheet model repository. Get up
+    The main `WAVI.jl` ice sheet model repository. Get up
     and running in minutes.
 
     [:octicons-arrow-right-24: Get ice sheet modelling](https://github.com/RJArthern/WAVI.jl)
@@ -43,7 +43,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     ---
 
-    Run an ensemble of WAVI models on your high-performance computing cluster.
+    Run an ensemble of `WAVI.jl` models on your high-performance computing cluster.
 
     [:octicons-arrow-right-24: Brrr](https://github.com/alextbradley/WAVIhpc)
 
@@ -51,7 +51,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     ---
 
-    Explore community examples of using WAVIhpc to simulate real-world scenarios. 
+    Explore community examples using `WAVIhpc` to simulate real-world scenarios. 
 
     [:octicons-arrow-right-24: Ice ice baby](#)
 
@@ -59,7 +59,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     ---
 
-    Explore pre-determined drivers to power WAVI.
+    Explore pre-determined drivers to power `WAVI.jl`.
 
     [:octicons-arrow-right-24: Thanks driver!](#)
 
@@ -67,7 +67,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     ---
 
-    Get your input data into shape for use with WAVI.
+    Get your input data into shape for use with `WAVI.jl`.
 
     [:octicons-arrow-right-24: Yes please](#)
 
@@ -82,10 +82,11 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
 </div>
 
-## The Team
+## Get in touch
 
-### WAVI.jl
-<a href="https://github.com/RJArthern/WAVI.jl/graphs/contributors"><img src="https://contrib.rocks/image?repo=RJArthern/WAVI.jl" /></a>
+Check our [discussions forum](community.md) for general purpose question around the WAVI ecosystem.
 
-### WAVIhpc
-<a href="https://github.com/alextbradley/WAVIhpc/graphs/contributors"><img src="https://contrib.rocks/image?repo=alextbradley/WAVIhpc" /></a>
+If you want to get in touch with us directly, please contact: ...
+
+
+[:octicons-arrow-right-24: Find out more about the team](authors.md)
