@@ -66,8 +66,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 copyright: |
-  Thanks to Bryony Freer, who designed the WAVI.jl logo.
-  Copyright &copy; 2025 British Antarctic Survey
+  Copyright &copy; 2025 British Antarctic Survey.
+  WAVI.jl logo designed by Bryony Freer.
 
 # Additional configuration for the homepage
 # Custom Homepage Elements

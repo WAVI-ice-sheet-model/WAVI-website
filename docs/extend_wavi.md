@@ -9,6 +9,15 @@ specific use cases you can base you ensembles on, such as [MISMIP](https://tc.co
 [WAVIhpc Repository](https://github.com/alextbradley/WAVIhpc){ .md-button .md-button--primary }
 [WAVIhpc Documentation (TBC)](#){ .md-button }
 
+## example-registry: find out of WAVI.jl and WAVIhpc simulate real-life scenarios
+
+The `example-registry` contains a registry of examples that use WAVI.jl and WAVIhpc to answer
+real-life scientific questions. For example on the future of ice sheets, anthropogenic contributions
+to sea-level rise.
+
+[example-registry (TBC)](#){ .md-button .md-button--primary }
+[example-registry Documentation (TBC)](#){ .md-button }
+
 ## model-ensembler: powering WAVIhpc to run ensembles
 
 `model-ensembler` is a general purpose Python package that supports running ensembles. It is the

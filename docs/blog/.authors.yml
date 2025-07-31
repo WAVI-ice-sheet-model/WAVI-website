@@ -11,33 +11,41 @@ authors:
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/36222451?v=4
     affiliation: King's College London
+    github: alextbradley
   rjarthern:
     name: Robert Arthern
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/1026460?v=4
     affiliation: British Antarctic Survey
+    github: rjarthern
   crosiewilliams:
     name: Rosie Williams
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/69468605?v=4
     affiliation: British Antarctic Survey
+    github: crosiewilliams
   david-bett4:
     name: David Bett
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/59053177?v=4
     affiliation: British Antarctic Survey
+    github: david-bett4
   jimcircadian:
     name: James Byrne
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/731727?v=4
     affiliation: British Antarctic Survey
+    github: jimcircadian
   thomaszwagerman:
     name: Thomas Zwagerman
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/36264706?v=4
     affiliation: British Antarctic Survey
+    email: thozwa@bas.ac.uk
+    github: thomaszwagerman
   pierthodo:
     name: Pierre Thodoroff
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/5915193?v=4
     affiliation: University of Cambridge
+    github: pierthodo

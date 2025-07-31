@@ -13,7 +13,7 @@ To install the documentation dependencies:
 ```bash
 source venv/bin/activate
 
-pip install -e requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Building the Docs
