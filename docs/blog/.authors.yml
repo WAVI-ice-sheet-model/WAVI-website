@@ -6,18 +6,18 @@ page_params:
   avatar_align: left
 
 authors:
-  alextbradley:
-    name: Alex Bradley
-    description: Maintainer
-    avatar: https://avatars.githubusercontent.com/u/36222451?v=4
-    affiliation: King's College London
-    github: alextbradley
   rjarthern:
     name: Robert Arthern
     description: Maintainer
     avatar: https://avatars.githubusercontent.com/u/1026460?v=4
     affiliation: British Antarctic Survey
     github: rjarthern
+  alextbradley:
+    name: Alex Bradley
+    description: Maintainer
+    avatar: https://avatars.githubusercontent.com/u/36222451?v=4
+    affiliation: King's College London
+    github: alextbradley
   crosiewilliams:
     name: Rosie Williams
     description: Maintainer
