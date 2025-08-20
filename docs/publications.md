@@ -1,6 +1,6 @@
 Below are papers and data in the WAVI ecosystem.
 
-Feel free to add your own with a Pull Request! **Edit this page link once hosted**
+Feel free to add your own with a Pull Request, or click "Edit this Page" in the top right corner.
 
 ## Papers
 

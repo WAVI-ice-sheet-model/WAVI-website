@@ -34,3 +34,30 @@ nav:
   - Overview: index.md
 ```
 If you create a new page, do not forget to add in to the `nav:`.
+
+### Adding a blog post
+Blog post articles can be added under the `blog/posts` folder.
+
+Make sure you add headers, including the `date` and `authors` field, to the top of your article. The article should be an `.md` file:
+
+```md
+---
+draft: true 
+date: 2025-07-30
+categories:
+  - WAVI.jl
+  - Version Announcements
+authors:
+    - thomaszwagerman
+    - alextbradley
+    - jimcircadian
+---
+
+# Blog post title
+
+Some text.
+```
+
+Authors are defined in `.authors.yml`, feel free to add yourself to the authors list.
+
+Please have your blog post filename conform with the following: `yyyymmdd-topic-name.md`.
