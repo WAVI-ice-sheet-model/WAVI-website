@@ -45,7 +45,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     Run an ensemble of `WAVI.jl` models on your high-performance computing cluster.
 
-    [:octicons-arrow-right-24: Brrr](https://github.com/alextbradley/WAVIhpc)
+    [:octicons-arrow-right-24: Run WAVI ensembles](https://github.com/alextbradley/WAVIhpc)
 
 -   :fontawesome-solid-icicles:{ .lg .middle } __TBD Registry__
 
@@ -53,15 +53,8 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     Explore community examples using `WAVIhpc` to simulate real-world scenarios. 
 
-    [:octicons-arrow-right-24: Ice ice baby](#)
+    [:octicons-arrow-right-24: Show me some examples](#)
 
--   :fontawesome-solid-car-side:{ .lg .middle } __TBD Driver__
-
-    ---
-
-    Explore pre-determined drivers to power `WAVI.jl`.
-
-    [:octicons-arrow-right-24: Thanks driver!](#)
 
 -   :fontawesome-solid-hammer:{ .lg .middle } __TBD Pre-processing__
 
@@ -69,7 +62,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     Get your input data into shape for use with `WAVI.jl`.
 
-    [:octicons-arrow-right-24: Yes please](#)
+    [:octicons-arrow-right-24: Help me pre-processing my data](#)
 
 -   :fontawesome-solid-bars-progress:{ .lg .middle } __model-ensembler__
 
@@ -78,7 +71,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
     `model-ensembler` is a general purpose Python package that supports running ensembles. It is the
     backbone of `WAVIhpc`, but can be used for other models. 
 
-    [:octicons-arrow-right-24: Ensembles assemble](https://github.com/environmental-forecasting/model-ensembler)
+    [:octicons-arrow-right-24: Take me to model-ensembler](https://github.com/environmental-forecasting/model-ensembler)
 
 </div>
 
