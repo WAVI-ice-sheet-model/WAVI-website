@@ -10,6 +10,9 @@ You can install the latest version of WAVI using Julia's in-build package manage
 
 ```julia title="Installation"
 using Pkg
+Pkg.add(PackageSpec(url="https://github.com/RJArthern/WAVI.jl.git"))
+
+# Coming soon!
 Pkg.add("WAVI"))
 ```
 
