@@ -84,9 +84,9 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
 ## Get in touch
 
-Check our [discussions forum](community.md) for general purpose question around the WAVI ecosystem.
+Check our [discussions forum](https://github.com/orgs/WAVI-ice-sheet-model/discussions) for general purpose question around the WAVI ecosystem.
 
-If you want to get in touch with us directly, please contact: ...
+If you want to get in touch with us directly, please see the team page for contact details:
 
 
 [:octicons-arrow-right-24: Find out more about the team](authors.md)
