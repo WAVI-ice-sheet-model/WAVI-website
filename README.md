@@ -3,7 +3,7 @@
 
 Main website for the whole WAVI.jl ecosystem. The website is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
-This is the website for the WAVI ecosystem as a whole. You can find the WAVI.jl [documentation here](https://rjarthern.github.io/WAVI.jl/).
+This is the website for the WAVI ecosystem as a whole. You can find the WAVI.jl [documentation here](https://WAVI-ice-sheet-model.github.io/WAVI.jl/).
 
 # Making Changes
 

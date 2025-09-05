@@ -32,7 +32,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: https://raw.githubusercontent.com/RJArthern/WAVI.jl/build-docs/docs/src/assets/logo.png
+  logo: https://raw.githubusercontent.com/WAVI-ice-sheet-model/WAVI.jl/build-docs/docs/src/assets/logo.png
   favicon: images/favicon.ico
   icon:
     repo: fontawesome/brands/github
@@ -71,7 +71,7 @@ copyright: |
 
 # Additional configuration for the homepage
 # Custom Homepage Elements
-home_cover_image: https://raw.githubusercontent.com/RJArthern/WAVI.jl/build-docs/docs/src/assets/logo.png
+home_cover_image: https://raw.githubusercontent.com/WAVI-ice-sheet-model/WAVI.jl/build-docs/docs/src/assets/logo.png
 home_tagline: WAVI.jl
 home_description: |
   A fast and friendly ice sheet model for everyone.

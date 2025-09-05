@@ -25,6 +25,6 @@ using WAVI
 ```
 
 We are constantly working to make WAVI.jl a friendlier, and easier to use open source package.
-Check out our updated [installation instructions](https://rjarthern.github.io/WAVI.jl/installation_instructions/).
+Check out our updated [installation instructions](https://WAVI-ice-sheet-model.github.io/WAVI.jl/installation_instructions/).
 
 Happy ice sheet modelling!

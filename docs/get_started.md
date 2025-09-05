@@ -10,7 +10,7 @@ You can install the latest version of WAVI using Julia's in-build package manage
 
 ```julia title="Installation"
 using Pkg
-Pkg.add(PackageSpec(url="https://github.com/RJArthern/WAVI.jl.git"))
+Pkg.add(PackageSpec(url="https://github.com/WAVI-ice-sheet-model/WAVI.jl.git"))
 
 # Coming soon!
 Pkg.add("WAVI"))
@@ -75,8 +75,8 @@ It's as easy as that: entry into the state of the art ice sheet model intercompa
 
 Discover more use cases in WAVI.jl's extensive documentation:
 
-[WAVI.jl Repository](https://github.com/RJArthern/WAVI.jl){ .md-button .md-button--primary }
-[WAVI.jl Documentation](https://rjarthern.github.io/WAVI.jl/){ .md-button }
+[WAVI.jl Repository](https://github.com/WAVI-ice-sheet-model/WAVI.jl){ .md-button .md-button--primary }
+[WAVI.jl Documentation](https://WAVI-ice-sheet-model.github.io/WAVI.jl/){ .md-button }
 
 ## Extending WAVI
 

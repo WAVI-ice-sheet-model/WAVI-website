@@ -6,8 +6,8 @@ HPCs using [model-ensembler](https://github.com/environmental-forecasting/model-
 WAVIhpc provides convenience functions, templates for running on different HPC platforms, and
 specific use cases you can base you ensembles on, such as [MISMIP](https://tc.copernicus.org/articles/14/2283/2020/).
 
-[WAVIhpc Repository](https://github.com/alextbradley/WAVIhpc){ .md-button .md-button--primary }
-[WAVIhpc Documentation (TBC)](#){ .md-button }
+[WAVIhpc Repository](https://github.com/WAVI-ice-sheet-model/WAVIhpc){ .md-button .md-button--primary }
+[WAVIhpc Documentation (TBC)](https://wavi-ice-sheet-model.github.io/WAVIhpc/){ .md-button }
 
 ## example-registry: find out of WAVI.jl and WAVIhpc simulate real-life scenarios
 

@@ -37,7 +37,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
     The main `WAVI.jl` ice sheet model repository. Get up
     and running in minutes.
 
-    [:octicons-arrow-right-24: Get ice sheet modelling](https://github.com/RJArthern/WAVI.jl)
+    [:octicons-arrow-right-24: Get ice sheet modelling](https://github.com/WAVI-ice-sheet-model/WAVI.jl)
 
 -   :fontawesome-solid-cubes:{ .lg .middle } __WAVIhpc__
 
@@ -45,7 +45,7 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     Run an ensemble of `WAVI.jl` models on your high-performance computing cluster.
 
-    [:octicons-arrow-right-24: Run WAVI ensembles](https://github.com/alextbradley/WAVIhpc)
+    [:octicons-arrow-right-24: Run WAVI ensembles](https://github.com/WAVI-ice-sheet-model/WAVIhpc)
 
 -   :fontawesome-solid-icicles:{ .lg .middle } __TBD Registry__
 
