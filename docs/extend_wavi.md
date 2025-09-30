@@ -12,11 +12,11 @@ specific use cases you can base you ensembles on, such as [MISMIP](https://tc.co
 ## example-registry: find out of WAVI.jl and WAVIhpc simulate real-life scenarios
 
 The `example-registry` contains a registry of examples that use WAVI.jl and WAVIhpc to answer
-real-life scientific questions. For example on the future of ice sheets, anthropogenic contributions
+real-life scientific questions. For example on the future of ice sheets and anthropogenic contributions
 to sea-level rise.
 
-[example-registry (TBC)](#){ .md-button .md-button--primary }
-[example-registry Documentation (TBC)](#){ .md-button }
+[example-registry](https://github.com/WAVI-ice-sheet-model/example-registry){ .md-button .md-button--primary }
+[example-registry Documentation](https://github.com/WAVI-ice-sheet-model/example-registry?tab=contributing-ov-file){ .md-button }
 
 ## model-ensembler: powering WAVIhpc to run ensembles
 
