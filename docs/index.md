@@ -47,13 +47,13 @@ WAVI.jl is supported by a growing number of tools, all of which you can find bel
 
     [:octicons-arrow-right-24: Run WAVI ensembles](https://github.com/WAVI-ice-sheet-model/WAVIhpc)
 
--   :fontawesome-solid-icicles:{ .lg .middle } __TBD Registry__
+-   :fontawesome-solid-icicles:{ .lg .middle } __Registry__
 
     ---
 
-    Explore community examples using `WAVIhpc` to simulate real-world scenarios. 
+    Explore community examples using `WAVI` and `WAVIhpc` to simulate idealised and real-world scenarios. 
 
-    [:octicons-arrow-right-24: Show me some examples](#)
+    [:octicons-arrow-right-24: Show me some examples](https://github.com/WAVI-ice-sheet-model/example-registry)
 
 
 -   :fontawesome-solid-hammer:{ .lg .middle } __TBD Pre-processing__
